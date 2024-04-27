@@ -10,9 +10,9 @@ public class MinhaClasse {
 
         System.out.println(nomeCompleto);
 
-       int anoNascimento = 2002;
+        int anoNascimento = 2002;
 
-       boolean verdade = true;
+        boolean verdade = true;
     }
     public static String nomeCompleto (String primeiroNome, String segundoNome) {
         return "Resultado do metodo " + primeiroNome.concat(" ").concat(segundoNome);
