@@ -1,4 +1,4 @@
-package list;
+package list.Exercicios.CarrinhoCompras;
 
 public class Item {
     //atributos
