@@ -1,4 +1,4 @@
-package set.Ordenacao;
+package set.Pesquisa;
 
 public class Contato {
     //atributo
